@@ -13,3 +13,5 @@
 - [MIC2288YD5-TR](http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en580187) (Boost Regulator for 5V)
 - [MCP73831](http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en025112) (Battery Charger)
 - [NHD-0208AZ-RN-YBW-ND](http://www.newhavendisplay.com/specs/NHD-0208AZ-RN-YBW.pdf) (LCD)
+- [TE Connectivity ALCOSWITCH](http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1977223&DocType=Customer+Drawing&DocLang=English) (Button)
+- [WT-1205 BUZZER](http://www.soberton.com/wt-1205/) (Buzzer)
